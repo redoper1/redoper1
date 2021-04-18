@@ -7,7 +7,7 @@ I love working on OSS projects and helping other people with their problems in v
 I was studying in computer science field only shortly, so I'm learning most of the things by myself by practice. I have studied mostly in field of mechanical engineering with focus on industrial design.
 
 
-If you want to learn more check out my repos or this links.
+If you want to learn more check out my repos or links below.
 
 - [LinkedIn](https://www.linkedin.com/in/davidrychly/)
 - [My website](https://davidrychly.cz/)
