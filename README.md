@@ -1,6 +1,8 @@
 ### 👋
 
-Hi, my name is David and I currently work as Full-stack developer at [BOOTIQ.io](https://www.bootiq.io/en).
+Hi, my name is David and I currently work as Developer at [Solitea Byznys](https://www.byznys.eu/).
+
+I was previously workik as Full-stack developer at [BOOTIQ.io](https://www.bootiq.io/en)
 
 I love working on OSS projects and helping other people with their problems in various fields.
 
