@@ -50,3 +50,6 @@ If you want to learn more check out my repos or links below.
 
 [website]: https://davidrychly.cz/
 [linkedin]: https://linkedin.com/in/davidrychly/
+
+<br />
+<a href="https://app.daily.dev/redoper"><img src="https://api.daily.dev/devcards/19e853d1cd574d84bafd2e635aeb2888.png?r=aq4" width="400" alt="David Rychlý's Dev Card"/></a>
