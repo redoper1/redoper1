@@ -55,3 +55,7 @@ If you want to learn more check out my repos or links below.
 <br />
 <br />
 <a href="https://app.daily.dev/redoper"><img src="https://api.daily.dev/devcards/19e853d1cd574d84bafd2e635aeb2888.png?r=aq4" width="300" alt="David Rychlý's Dev Card"/></a>
+
+<br />
+<br />
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
