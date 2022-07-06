@@ -56,5 +56,5 @@ If you want to learn more check out my repos or links below.
 <br />
 <div style="display:flex;flex-wrap:wrap;">
   <img align=top align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-  <a href="https://app.daily.dev/redoper"><img align=top src="https://api.daily.dev/devcards/19e853d1cd574d84bafd2e635aeb2888.png?r=aq4" width="300" alt="David Rychlý's Dev Card"/></a>
+  <a href="https://app.daily.dev/redoper"><img align=top src="https://github.com/redoper1/redoper1/blob/master/devcard.svg" width="300" alt="David Rychlý's Dev Card"/></a>
 </div>
