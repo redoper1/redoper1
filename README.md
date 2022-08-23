@@ -1,6 +1,6 @@
 ### 👋
 
-Hi, my name is David and I currently work as Developer at [Solitea Byznys](https://www.byznys.eu/).
+Hi, my name is David and I currently work as Developer at [Solitea Byznys](https://www.byznys.eu/) and I'm also partially freelancing.
 
 I was previously working as Full-stack developer at [BOOTIQ.io](https://www.bootiq.io/en).
 
