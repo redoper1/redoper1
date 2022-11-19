@@ -19,11 +19,11 @@ If you want to learn more check out my repos or links below.
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SASS (SCSS)" title="SASS (SCSS)" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Bootstrap" title="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://files.davidrychly.cz/github-intro-icons/vs-code.svg?sanitize=true" />
+<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://files.davidrychly.cz/github-intro-icons/html5.svg?sanitize=true" />
+<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://files.davidrychly.cz/github-intro-icons/css3.svg?sanitize=true" />
+<img align="left" alt="SASS (SCSS)" title="SASS (SCSS)" width="26px" src="https://files.davidrychly.cz/github-intro-icons/sass.svg?sanitize=true" />
+<img align="left" alt="Bootstrap" title="Bootstrap" width="26px" src="https://files.davidrychly.cz/github-intro-icons/bootstrap.svg?sanitize=true" />
 <img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" title="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
