@@ -710,7 +710,7 @@ The following vulnerabilities are fixed with an upgrade:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 792k out of 108m users</span>
+                                    <span class="gh">ranked 793k out of 108m users</span>
                                 </div>
                                 <div class="text">Followed by 14 users</div>
                             </div>
@@ -900,7 +900,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Feb 2023, 09:26:55 (timezone Europe/Prague) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 8 Feb 2023, 10:21:59 (timezone Europe/Prague) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
