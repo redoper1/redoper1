@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    645k added, 292k removed
+                                    10.5m added, 1.34m removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="305.07603908952115" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="305.07603908952115" y="0" width="101.96391438639824" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="407.0399534759194" y="0" width="38.24964850878224" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="445.2896019847017" y="0" width="6.811615814631448" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.1012177993331" y="0" width="4.6031282241162215" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="456.7043460234493" y="0" width="1.659183076543904" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="458.36352909999323" y="0" width="0.9495335566057252" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.31306265659896" y="0" width="0.6869373434010432" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="305.0736963941354" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="305.0736963941354" y="0" width="101.96666376484232" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="407.0403601589778" y="0" width="38.24935478766494" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="445.28971494664273" y="0" width="6.811563507865614" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.10127845450836" y="0" width="4.603092876445908" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="456.7043713309543" y="0" width="1.659170335587423" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="458.3635416665417" y="0" width="0.9495262650862462" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.3130679316279" y="0" width="0.6869320683720719" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -657,7 +657,7 @@ The following vulnerabilities are fixed with an upgrade:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.1951951951952 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.35035035035035 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -680,9 +680,9 @@ The following vulnerabilities are fixed with an upgrade:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 56.6k out of 375m repositories</span>
+                                    <span class="gh">ranked 56.5k out of 375m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 679 stars</div>
+                                <div class="text">Maintaining a repository with 680 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -830,7 +830,7 @@ The following vulnerabilities are fixed with an upgrade:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.04m out of 375m repositories</span>
+                                    <span class="gh">ranked 1.03m out of 375m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 9 times</div>
                             </div>
@@ -1072,7 +1072,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Feb 2023, 17:29:43 (timezone Europe/Prague) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 9 Feb 2023, 18:19:38 (timezone Europe/Prague) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
