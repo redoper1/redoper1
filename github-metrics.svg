@@ -443,7 +443,7 @@ The following vulnerabilities are fixed with an upgrade:
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 687k out of 119m users</span>
+                                    <span class="gh">ranked 688k out of 119m users</span>
                                 </div>
                                 <div class="text">Published 46 public repositories</div>
                             </div>
@@ -860,7 +860,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2023, 15:41:49 (timezone Europe/Prague) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 6 Jul 2023, 16:20:55 (timezone Europe/Prague) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
