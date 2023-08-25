@@ -48,7 +48,7 @@ If you want to learn more check out my repos or links below.
 <br />
 <br />
 
-[website]: https://davidrychly.cz/
+[website]: [https://davidrychly.cz/](https://www.davidrychly.cz/?utm_source=socials&utm_medium=profile-link&utm_campaign=github-bio)
 [linkedin]: https://linkedin.com/in/davidrychly/
 
 <br />
