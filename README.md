@@ -1,12 +1,12 @@
 ### 👋
 
-Hi, my name is David and I currently work as Developer at [Seyfor (formerly Solitea) Byznys](https://www.byznys.eu/en/) and I'm also partially freelancing.
+Hi, my name is David and I currently work as a Developer at [Seyfor (formerly Solitea) Byznys](https://www.byznys.eu/en/) and I'm also partially freelancing.
 
-I was previously working as Full-stack developer at [BOOTIQ.io](https://www.bootiq.io/en).
+I was previously working as a Full-stack developer at [BOOTIQ.io](https://www.bootiq.io/en).
 
-I love working on OSS projects and helping other people with their problems in various fields.
+I love working on OSS projects and helping others with their problems in various fields.
 
-I was studying in computer science field only shortly, so I'm learning most of the things by myself by practice. I have studied mostly in field of mechanical engineering with focus on industrial design.
+I was studying in the computer science field only shortly, so I'm learning most things by myself by practice. I have studied primarily in the field of mechanical engineering with a focus on industrial design.
 
 
 If you want to learn more check out my repos or links below.
