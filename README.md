@@ -50,7 +50,7 @@ and more...
 <br />
 <br />
 
-[website]: https://www.davidrychly.cz/?utm_source=socials&utm_medium=profile-link&utm_campaign=github-bio
+[website]: https://www.davidrychly.cz/?utm_source=github&utm_medium=bio&utm_campaign=homepage
 [linkedin]: https://linkedin.com/in/davidrychly/
 
 <br />
