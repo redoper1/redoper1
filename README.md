@@ -60,7 +60,3 @@ and more...
   <img align=top align="center" src="/github-metrics.svg" alt="Metrics" width="400">
   <a href="https://app.daily.dev/redoper"><img align=top src="https://github.com/redoper1/redoper1/blob/main/devcard.svg" width="300" alt="David Rychlý's Dev Card"/></a>
 </div>
-<br />
-<div>
-  <a href="https://codeium.com/profile/redoper"><img src="https://codeium.com/profile/redoper/card.png" alt="David Rychlý's codeium membership card" width="400" /></a>
-</div>
