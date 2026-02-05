@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 4 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@v3.34
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -40,7 +40,7 @@ jobs:
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
-          plugin_activity_visibility: all
+          plugin_activity_visibility: public
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
