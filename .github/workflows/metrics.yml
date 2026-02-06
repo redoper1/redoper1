@@ -31,16 +31,10 @@ jobs:
           config_timezone: Europe/Prague
           config_twemoji: yes
 
-          repositories_affiliations: owner, collaborator, organization_member
+          repositories_affiliations: owner
 
           plugin_languages: yes
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_threshold: 2%
-
-          plugin_lines: yes
-
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
-
-          repositories_skipped: upptime-status-page
+          
+          repositories_skipped: upptime-status-page,status-elastic
